@@ -1,0 +1,1 @@
+# HibernateMavenCRUDUsingHQL_08.01.25
